@@ -36,7 +36,7 @@ Target Audience:
 Contributions:
 
 🌟 Contributions, issues, and feedback are encouraged! Feel free to contribute exercises, suggest improvements, or report any issues you come across.
-Start your CSS journey and watch your web designs come to life!
+Start your CSS journey and watch your web designs come to life.
 
 
 
